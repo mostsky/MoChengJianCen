@@ -29,7 +29,7 @@
     "lua/import.lua": "8",
     "lua/socket.lua": "8"
   },
-  "apkFilePath": "/storage/emulated/0/过春秋检测/apks/春秋检测_2.8.0.apk",
+  "apkFilePath": "/https://raw.githubusercontent.com/mostsky/chunqiujiance/main/春秋检测_2.8.0.apk?token=B23ZJR43QDCYSOPIPKRSQSDJKZYIBAA",
   "compactEntries": false,
   "isFrameworkApk": false,
   "sdkInfo": {
