@@ -1,0 +1,39 @@
+{
+  "apkFileName": "春秋检测_2.8.0_src.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png"
+  ],
+  "compressionType": false,
+  "sparseResources": true,
+  "version": "2.4.0-251127",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "2.8.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "lua/loadbitmap.lua": "8",
+    "lua/loadmenu.lua": "8",
+    "lua/json.lua": "8",
+    "lua/ChunQiuLuaShell.lua": "8",
+    "lua/loadlayout.lua": "8",
+    "lua/import.lua": "8",
+    "lua/socket.lua": "8"
+  },
+  "apkFilePath": "/storage/emulated/0/过春秋检测/apks/春秋检测_2.8.0.apk",
+  "compactEntries": false,
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "28",
+    "targetSdkVersion": "30"
+  }
+}
