@@ -33,7 +33,7 @@
   "compactEntries": false,
   "isFrameworkApk": false,
   "sdkInfo": {
-    "minSdkVersion": "28",
-    "targetSdkVersion": "30"
+    "minSdkVersion": "30",
+    "targetSdkVersion": "32"
   }
 }
